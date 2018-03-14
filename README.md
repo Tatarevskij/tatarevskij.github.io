@@ -1,2 +1,0 @@
-# tatarevskij.github.io
-site
