@@ -272,11 +272,6 @@
     font-style: normal;
 }
 
-* {
-	margin: 0;
-	padding: 0;
-}
-
 .container_1 {
 	width: 1500px;
 	min-height: calc(100vh - 351px);
